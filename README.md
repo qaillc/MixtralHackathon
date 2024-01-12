@@ -19,13 +19,7 @@ The societal benefits of Mixtral are multifaceted: Firstly, it establishes a sec
 
 Team Leader: Michael Lively
 
-Team Members:  
-
-Kashaf Jamil
-Rumaisa Awan
-John Fakile
-David Lively
-Sean Ma
+Team Members:  Kashaf Jamil, Rumaisa Awan, John Fakile, David Lively, Sean Ma
 
 
 
