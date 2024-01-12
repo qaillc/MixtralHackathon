@@ -7,7 +7,7 @@ This is an agent simulated group therapy session providing  a safe, judgment-fre
 
 The integration of Mixtral for authentic human conversations has proven to be remarkably successful.
 
-In the upcoming version, we plan to refine the sequencing to more accurately mimic real group dynamics. Additionally, we aim to introduce a human participant to interact within this digital environment.
+In an upcoming version, we plan to refine the sequencing to more accurately mimic real group dynamics. Additionally, we aim to introduce a human participant to interact within this digital environment.
 
 A pivotal realization emerged: Mixtral's utility extends beyond patient support; it's a valuable tool for therapists to enhance their sessions and gather insightful statistics.
 
