@@ -1,0 +1,13 @@
+openai
+langchain
+dedent
+unstructured
+faiss-cpu
+sec-api
+yfinance
+google-generativeai==0.3.1
+google-ai-generativelanguage==0.4.0
+gradio
+tiktoken
+langchain_openai
+langchain-google-genai
