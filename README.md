@@ -15,6 +15,19 @@ Our programming “aha” moment was the use of Steps to create a final report a
 
 The societal benefits of Mixtral are multifaceted: Firstly, it establishes a secure and nonjudgmental space for discussing sensitive matters. Secondly, it furnishes therapists with a feedback mechanism to refine their practice. Lastly, it generates vital statistics, often required for governmental funding, through methods like sentiment analysis.
 
+# Team Members
+
+Team Leader: Michael Lively
+
+Team Members:  
+
+Kashaf Jamil
+Rumaisa Awan
+John Fakile
+David Lively
+Sean Ma
+
+
 
 
 
